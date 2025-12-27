@@ -1,4 +1,8 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Rajat Mishra
+Author - Rajat (Apna College)
+
+
+
+
